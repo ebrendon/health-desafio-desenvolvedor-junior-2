@@ -15,6 +15,7 @@ npm install
 * DB_DATABASE = petshop
 * PORT = 3333
 * DB_PORT = 5432
+<br>
 - Execute as migrações no diretório backend/migrations, elas são responsáveis por criar o banco e a tabela 
 - Excute o comando abaixo para colocar o servidor online
 ```sh
